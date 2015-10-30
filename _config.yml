@@ -1,0 +1,23 @@
+name: Belowthefog
+favicon: null
+layout_spectrum: 0.21495782118290663
+typography_spectrum: 0.7134131286293268
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.27211065986193717
+  lightness: 0.7964763338677585
+  saturation: 0.5368548072874546
+  rhythmicContrast: 0.3725906331092119
+purpose: []
